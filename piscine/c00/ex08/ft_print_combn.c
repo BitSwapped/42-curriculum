@@ -61,8 +61,3 @@ void	ft_print_combn(int n)
 		ft_putchar('\n');
 	}
 }
-
-int	main(void)
-{
-	ft_print_combn(2);
-}
